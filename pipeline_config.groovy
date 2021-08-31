@@ -4,6 +4,5 @@
     these should be configurations common across 
     all apps governed by this config. 
 */
-libraries{
-  merge = true 
+@merge libraries{
 }
